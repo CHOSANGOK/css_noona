@@ -44,5 +44,6 @@ h1:first-of-type {
       transparent 81px
     ),
     linear-gradient(#eee 0.1em, transparent 0.1em);
+  padding-left: 10%;
   background-size: 100% 1.2em;
 }
